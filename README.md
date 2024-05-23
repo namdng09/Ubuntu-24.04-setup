@@ -20,3 +20,5 @@ sudo apt install gdebi -y
 ```bash
 gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
 ```
+
+- ## [Click](https://www.google.com/)
